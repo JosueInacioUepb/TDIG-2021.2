@@ -1,0 +1,34 @@
+body{
+  background-color: aliceblue;
+}
+
+#info{
+    text-align: center;
+}
+
+#imagem{
+  position:absolute;
+  left:20px;
+  text-align: center;
+  display: inline-block;
+}
+
+#bloco1{
+  margin: 30px 20px 2px 20px;
+  padding: 20px 20px;
+  margin-top: 5vh;
+  
+  border:solid 1px;
+  border-radius:20px;
+  border-color: cadetblue;
+
+  text-align: left;
+}
+
+#bloco2{
+  display: inline-block;
+}
+
+#contato{
+  padding: 50px 20px; 
+}
