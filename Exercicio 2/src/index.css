@@ -1,0 +1,46 @@
+body{
+  background-color: aliceblue;
+}
+
+#div1{
+  text-align: center;
+}
+
+#bloco1{
+
+  margin: 30px 20px 2px 20px;
+  padding: 20px 20px;
+  margin-top: 5vh;
+  
+  border:solid 1px;
+  border-radius:20px;
+  border-color: cadetblue;
+  
+  text-align: left;
+}
+
+
+#imagem{
+  display: inline-block;
+  padding: 20px 20px;
+  text-align:  center;
+}
+
+
+#bloco2{
+
+  margin: 30px 20px ;
+  width: 97%;
+  border:solid 1px;
+  border-radius:20px;
+  border-color: cadetblue;
+  
+  display: inline-block
+
+}
+
+#contato{
+  padding: 20px 20px;
+  display: inline-block;
+  margin: 35px 20px ;
+}
