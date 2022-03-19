@@ -1,4 +1,4 @@
-Funcionalidades OK :
+
 
     - Cadastro de usuários(Professor e Aluno): Já é possivel cadastrar um usuário usando a api
     
